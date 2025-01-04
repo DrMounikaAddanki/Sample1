@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello...Happy xmax
+=======
+Hello...Elangovan sir
+Hello...Mounika madam
+>>>>>>> f00c1c5e8986207b2f97844f5a781cd3b526b6a1
